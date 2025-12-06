@@ -14,10 +14,10 @@ PRODUCT_RELEASE_NAME := peridot
 
 ## Device identifier
 PRODUCT_DEVICE := peridot
-PRODUCT_NAME := twrp_peridot
-PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := RedmiTurbo3
-PRODUCT_MANUFACTURER := Xiaomi
+PRODUCT_NAME := pb_peridot
+PRODUCT_BRAND := xiaomi
+PRODUCT_MODEL := peridot
+PRODUCT_MANUFACTURER := xiaomi
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := peridot
